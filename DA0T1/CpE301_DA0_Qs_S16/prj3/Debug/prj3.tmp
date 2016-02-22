@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Freelancer\shobitkapoor\3\prj3\prj3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Freelancer\shobitkapoor\3\prj3\prj3\prj_3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328Pdef.inc</FILE>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Freelancer\shobitkapoor\3\prj3\prj3\Debug/prj3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>prj3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>prj3.map</FILE>
+  <FILE>prj3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>D:\Freelancer\shobitkapoor\3\prj3\prj3\prj_3.asm</FILE><LINE>17</LINE></loop>
+  <skip><FILE>D:\Freelancer\shobitkapoor\3\prj3\prj3\prj_3.asm</FILE><LINE>52</LINE></skip>
+  <continue><FILE>D:\Freelancer\shobitkapoor\3\prj3\prj3\prj_3.asm</FILE><LINE>57</LINE></continue>
+  <end><FILE>D:\Freelancer\shobitkapoor\3\prj3\prj3\prj_3.asm</FILE><LINE>61</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
